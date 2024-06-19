@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\LSH\mySTSProject\.metadata\.plugins\org.eclipse.jdt.core
+7583745.index
+1777160946.index
+1108539383.index
+1110407814.index
